@@ -3,6 +3,5 @@
     "description": "Extended functionality for Game Maker Studio 2",
     "license": "MIT",
     "homepage": "https://github.com/dukesoft/extended-functions",
-    "yyp": "extendedfunctions.yyp",
-    "version": "0.0.1"
+    "yyp": "extendedfunctions.yyp"
 }
