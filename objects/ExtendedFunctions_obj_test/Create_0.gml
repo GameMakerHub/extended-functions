@@ -177,4 +177,3 @@ test_assert_same(". .",string_trim("      . .       "));
 
 ///End testsuite
 test_suite_end();
-

@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "7c058ab3-5489-4814-be08-cbce0ec50f68",
+            "Value": {
+                "id": "36b1c482-9b1e-43c9-adee-0e6d6b07dec2",
+                "resourcePath": "scripts\\color_lerp\\color_lerp.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7c5af833-d15c-400f-ac4c-b169f2cd457b",
             "Value": {
                 "id": "bb929823-efa5-4652-bb06-6e136f68ccf3",
@@ -315,6 +323,14 @@
             "Value": {
                 "id": "b776e7d9-b2cc-43ec-ab02-4681bef9a169",
                 "resourcePath": "views\\8e5576da-e878-4627-a236-58bfb265e9e5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "96a3034d-11f6-45e4-aaa9-e4cf74b7612d",
+            "Value": {
+                "id": "b5ee1486-a731-4f15-a388-7b3350428e97",
+                "resourcePath": "views\\96a3034d-11f6-45e4-aaa9-e4cf74b7612d.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -404,6 +420,14 @@
                 "id": "d5b63868-b272-4d38-a683-8df4b456dafb",
                 "resourcePath": "objects\\ExtendedFunctions_obj_test_near_instances\\ExtendedFunctions_obj_test_near_instances.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c9b6b1ee-01e8-4dbe-b5e6-d8341b5cba87",
+            "Value": {
+                "id": "6c29a9b8-19b5-43c6-af8c-dc285e93eb45",
+                "resourcePath": "scripts\\pulse\\pulse.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -518,7 +542,9 @@
         "15b91ad5-7025-42f5-b277-ba17c26613be",
         "9c623872-826d-4ed7-b721-c1484e147a32",
         "848d5b5d-2c08-427c-b350-5efa41453fde",
-        "efc2afd5-41de-4c26-a080-67a0882644cf"
+        "efc2afd5-41de-4c26-a080-67a0882644cf",
+        "c9b6b1ee-01e8-4dbe-b5e6-d8341b5cba87",
+        "7c058ab3-5489-4814-be08-cbce0ec50f68"
     ],
     "tutorial": ""
 }

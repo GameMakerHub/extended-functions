@@ -1,2 +1,2 @@
 ///debug_log(message);
-show_debug_message("[" + string(current_hour) + ":" +string(current_minute)+":"+string(current_second)+"] " + object_get_name(object_index) + ": " + string(argument0));
+show_debug_message("[" + string_prepend(current_hour, "0", 2) + ":" +string_prepend(current_minute, "0", 2)+":"+string_prepend(current_second, "0", 2)+"] " + object_get_name(object_index) + ": " + string(argument0));
